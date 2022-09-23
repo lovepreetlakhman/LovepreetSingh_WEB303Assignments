@@ -11,7 +11,7 @@ $("document").ready(() => {
 
 	function calculateExpense(){
 		let amount = yearlySalary.val() * techPercent.val() / 100;
-		techTotal.text(`$${amount.toFixed(2)}`);
+		techTotal.text(`${amount.toFixed(2)}`);
 	}
 	yearlySalary.keyup(calculateExpense);
 	techPercent.keyup(calculateExpense);
