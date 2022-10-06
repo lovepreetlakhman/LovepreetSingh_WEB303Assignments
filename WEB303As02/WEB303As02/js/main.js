@@ -10,12 +10,10 @@ $(function(){
     const retain = $('#retain');
 
     const content = $('#content');
-
     function catchContent(e) {
         content.slideUp(500, ()=>{
 
             const folderName = `${e.target.id}.html`;
-    
             const xhr = new XMLHttpRequest();
             xhr.open('GET', folderName, true);
     
@@ -26,7 +24,6 @@ $(function(){
     
             xhr.send();
         });
-
     }
     prospect.click(catchContent);
     convert.click(catchContent);
