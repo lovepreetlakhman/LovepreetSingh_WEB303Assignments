@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+#london-wrapper, #windsor-wrapper{
+    display: none;
+    height: 500px;
+}
+
+body{
+    min-height: 100vh;
+}
+cite{
+    font-size: .8em;
+}
+.modal {
+    padding: 15px;
+    z-index: 1000;
+    position:absolute;
+}
+.modal-content{
+    max-width: 800px;
+}
+.modal-content img{
+    max-width: 100%;
+}
+.modal-close{
+    margin: 10px 0;
+}
