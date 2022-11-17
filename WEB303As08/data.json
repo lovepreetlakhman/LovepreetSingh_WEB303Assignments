@@ -1,0 +1,58 @@
+[
+    {
+        "firstName": "Gippy",
+        "LastName": "Grewal",
+        "age": "32",
+        "height": "168 cm",
+        "Type": "Hero"
+
+    },
+    {
+        "firstName": "Mahi",
+        "LastName": "Gill",
+        "age": "29",
+        "height": "171 cm",
+        "Type": "Heroine"
+
+    },
+    {
+        "firstName": "Binnu",
+        "LastName": "Dhillon",
+        "age": "42",
+        "height": "178 cm",
+        "Type": "Villan"
+
+    },
+    {
+        "firstName": "Gutpreet",
+        "LastName": "Ghuggi",
+        "age": "31",
+        "height": "168 cm",
+        "Type": "comedian"
+
+    },
+    {
+        "firstName": "Noni",
+        "LastName": "Pandit",
+        "age": "48",
+        "height": "165 cm",
+        "Type": "side character"
+
+    },
+    {
+        "firstName": "sorav",
+        "LastName": "Rathi",
+        "age": "38",
+        "height": "175 cm",
+        "Type": "comedian"
+
+    },
+    {
+        "firstName": "Akshay",
+        "LastName": "Kumar",
+        "age": "25",
+        "height": "177 cm",
+        "Type": "side character"
+
+    }
+]
